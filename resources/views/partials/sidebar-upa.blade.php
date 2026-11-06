@@ -1,0 +1,3 @@
+<aside class="w-64 shrink-0 bg-slate-950 text-slate-200 min-h-screen hidden md:block">
+    <div class="p-6 border-b border-slate-800"><b class="text-white">UPA PERAWATAN</b><p class="text-xs text-slate-400 mt-1">UPA Perawatan</p></div>
+    <nav class="p-4 space-y-1"><a href="{{ route('upa.dashboard') }}" class="flex items-center gap-3 px-4 py-3 rounded-lg hover:bg-slate-800 text-sm"><i class="fa-solid fa-gauge w-5"></i>Dashboard</a></nav></aside>
